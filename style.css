@@ -1,0 +1,59 @@
+/* Color and fonts */
+body {
+
+	background: grey
+
+}
+
+h1 { 
+	color: black;
+	font-size: 35px;
+	font-weight bold;
+}
+
+h2 {
+	color: green;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.paragraph-content {
+	font-size: 22px;
+    color: grey;
+    text-align: center
+}
+
+
+.profile-picture {
+	height: 200px;
+	border-radius: 50%;
+
+}
+
+.profile-picture2 {
+	height: 450px;
+}
+
+.profile-picture3 {
+	height: 450px;
+}
+
+.card-white {
+	border: solid black 5px;
+	border-radius: 50px;
+	margin: 50px 250px;
+	text-align: center;
+	background-color: white;
+	padding: 40px;
+}
+
+.bouton1 {
+	background: yellow;
+	padding: 10px;
+	font-size: 20px
+}
+
+.fab {
+	font-size: 50px;
+	
+}
